@@ -1,0 +1,28 @@
+{
+  "name": "emberSailsFrontend",
+  "description": "Boilerplate for an Ember Sails Project!",
+  "private": false,
+  "version": "1.0.1",
+  "dependencies": {
+    "ember-template-compiler": "^1.6.1",
+    "grunt": "0.4.5",
+    "grunt-contrib-concat": "^0.4.0",
+    "grunt-contrib-jshint": "^0.10.0",
+    "grunt-contrib-less": "^0.11.0",
+    "grunt-contrib-uglify": "^0.5.0",
+    "grunt-contrib-watch": "^0.6.1",
+    "grunt-ember-templates": "^0.4.21",
+    "handlebars": "^1.3.0"
+  },
+  "author": {
+    "name": "jemiloii"
+  },
+  "email": "jemiloii@jemiloii.com",
+  "readme": "emberSailsFrontend\n==================\n\nRequires emberSailsBackend\nCurrently setup to work in an xampp/apache folder named emberSails\n\nrun `grunt build` to build project files\nrun `grunt watch` to watch project files\n",
+  "readmeFilename": "README.md",
+  "_id": "emberSailsFrontend@1.0.1",
+  "_shasum": "ad56614a19b2cf7ccc9afce843507cb9a1d3de74",
+  "_resolved": "git://github.com/JemiloII/emberSailsFrontend#0094e97a60ab58f8077c2bdb69ae33a7eddb6019",
+  "_from": "git://github.com/JemiloII/emberSailsFrontend",
+  "_fromGithub": true
+}

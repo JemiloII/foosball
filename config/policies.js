@@ -22,6 +22,11 @@ module.exports.policies = {
   PostController: {
     open: true,
     jwt: ['hasJsonWebToken']
+  },
+
+  UserController: {
+    jwt: true,
+    '*': ['hasJsonWebToken']
   }
 
   /***************************************************************************
